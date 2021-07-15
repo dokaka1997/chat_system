@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf09f286-0c83-48d9-abab-3e1cbfd96694" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1t1wlo1vDJcPcDe1Gs1zqCdgsgV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.ClientFrame">
+    <configuration name="ClientFrame" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.ClientFrame" />
+      <module name="ChatSocket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.ServerFrame" />
+      <module name="ChatSocket" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientFrame" />
+      <item itemvalue="Application.ServerFrame" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientFrame" />
+        <item itemvalue="Application.ServerFrame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf09f286-0c83-48d9-abab-3e1cbfd96694" name="Default Changelist" comment="" />
+      <created>1621950056497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621950056497</updated>
+      <workItem from="1621950057867" duration="1222000" />
+      <workItem from="1621954788756" duration="821000" />
+      <workItem from="1622124350124" duration="151000" />
+      <workItem from="1622193915525" duration="10000" />
+      <workItem from="1622193997475" duration="3832000" />
+      <workItem from="1622217638231" duration="1002000" />
+      <workItem from="1622635776863" duration="3272000" />
+      <workItem from="1622647159484" duration="30000" />
+      <workItem from="1622648687195" duration="797000" />
+      <workItem from="1622649526707" duration="393000" />
+      <workItem from="1622811840509" duration="1032000" />
+      <workItem from="1622813346414" duration="458000" />
+      <workItem from="1622814255330" duration="1287000" />
+      <workItem from="1622882870579" duration="2269000" />
+      <workItem from="1624981075708" duration="1385000" />
+      <workItem from="1624982561685" duration="179000" />
+      <workItem from="1624982774990" duration="110000" />
+      <workItem from="1625240236806" duration="649000" />
+      <workItem from="1625310321626" duration="1774000" />
+      <workItem from="1625312148932" duration="1095000" />
+      <workItem from="1625315602501" duration="817000" />
+      <workItem from="1625318233753" duration="17000" />
+      <workItem from="1625318288758" duration="206000" />
+      <workItem from="1625319636086" duration="416000" />
+      <workItem from="1625324724517" duration="628000" />
+      <workItem from="1625414916362" duration="935000" />
+      <workItem from="1625415969758" duration="824000" />
+      <workItem from="1625490234585" duration="276000" />
+      <workItem from="1625490640225" duration="27000" />
+      <workItem from="1625491051282" duration="88000" />
+      <workItem from="1626093442528" duration="1136000" />
+      <workItem from="1626164924531" duration="65000" />
+      <workItem from="1626182043740" duration="1339000" />
+      <workItem from="1626235563784" duration="1777000" />
+      <workItem from="1626237476040" duration="1740000" />
+      <workItem from="1626239487192" duration="744000" />
+      <workItem from="1626270326100" duration="1768000" />
+      <workItem from="1626272142574" duration="1775000" />
+      <workItem from="1626274595665" duration="189000" />
+      <workItem from="1626274830496" duration="1020000" />
+      <workItem from="1626360086798" duration="305000" />
+      <workItem from="1626360873407" duration="1428000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
